@@ -1,0 +1,12 @@
+{
+  "id": "todo-expressions",
+  "title": "Expressions with Todo",
+  "type": "sentences",
+  "autoHide": true,
+  "data": [
+    { "es": "Todo", "en": "Everything" },
+    { "es": "Todo el mundo", "en": "All of the world" },
+    { "es": "Toda la clase", "en": "All of the class" },
+    { "es": "Todas las personas", "en": "All of the persons" }
+  ]
+}

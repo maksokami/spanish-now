@@ -1,0 +1,1231 @@
+{
+  "id": "comprehensive-vocabulary-srs-reverse",
+  "title": "Master Vocabulary & Verbs Set (English to Spanish)",
+  "type": "flashcards",
+  "data": [
+    {
+      "id": "rv1",
+      "en": "beach",
+      "es": "playa",
+      "imageUrl": "https://loremflickr.com/cache/resized/65535_50805010113_00ff24bd5a_z_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv2",
+      "en": "to swim in the sea",
+      "es": "nadar en el mar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv3",
+      "en": "sharks",
+      "es": "tiburones",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv4",
+      "en": "to live",
+      "es": "vivir",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv5",
+      "en": "to walk",
+      "es": "caminar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv6",
+      "en": "although",
+      "es": "aunque",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv7",
+      "en": "about his/her job",
+      "es": "sobre su trabajo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv8",
+      "en": "drugs",
+      "es": "drogas",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv9",
+      "en": "pharmacy",
+      "es": "farmacia",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv10",
+      "en": "to say / to tell",
+      "es": "decir",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv11",
+      "en": "still / yet",
+      "es": "todavía",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv12",
+      "en": "same",
+      "es": "mismo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv13",
+      "en": "we leave / we left",
+      "es": "salimos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv14",
+      "en": "to bless",
+      "es": "bendecir",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv15",
+      "en": "to carry / to take",
+      "es": "llevar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv16",
+      "en": "I put / I place",
+      "es": "pongo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv17",
+      "en": "to lose",
+      "es": "perder",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv18",
+      "en": "to thank / to appreciate",
+      "es": "agradecer",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv19",
+      "en": "to ask questions",
+      "es": "hacer preguntas",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv20",
+      "en": "the reason",
+      "es": "la razón",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv21",
+      "en": "the language",
+      "es": "el idioma",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv22",
+      "en": "the point of view",
+      "es": "el punto de vista",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv23",
+      "en": "the country",
+      "es": "el país",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv24",
+      "en": "to teach",
+      "es": "enseñar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv25",
+      "en": "that's why / for that reason",
+      "es": "por eso",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv26",
+      "en": "together",
+      "es": "juntos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv27",
+      "en": "to read",
+      "es": "leer",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv28",
+      "en": "sometimes",
+      "es": "a veces",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv29",
+      "en": "however",
+      "es": "sin embargo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv30",
+      "en": "to help",
+      "es": "ayudar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv31",
+      "en": "to choose",
+      "es": "escoger",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv32",
+      "en": "to learn",
+      "es": "aprender",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv33",
+      "en": "slim / thin",
+      "es": "delgado",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv34",
+      "en": "hair",
+      "es": "cabello",
+      "imageUrl": "https://loremflickr.com/cache/resized/6116_6325860968_e236e634da_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv35",
+      "en": "wears simple clothes",
+      "es": "usa ropa sencilla",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv36",
+      "en": "now",
+      "es": "ahora",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv37",
+      "en": "behavior",
+      "es": "comportamiento",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv38",
+      "en": "sells",
+      "es": "vende",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv39",
+      "en": "they buy from the suspect",
+      "es": "compran del sospechoso",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv40",
+      "en": "far away",
+      "es": "lejos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv41",
+      "en": "is much closer",
+      "es": "está más cerca",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv42",
+      "en": "unknown reason",
+      "es": "razón desconocida",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv43",
+      "en": "returns",
+      "es": "regresa",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv44",
+      "en": "after / afterwards",
+      "es": "después",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv45",
+      "en": "they leave / they go out",
+      "es": "salen",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv46",
+      "en": "gym",
+      "es": "gimnasio",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv47",
+      "en": "sports",
+      "es": "deportes",
+      "imageUrl": "https://loremflickr.com/cache/resized/65535_51407970261_1709819007_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv48",
+      "en": "simple dinner",
+      "es": "cena sencilla",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv49",
+      "en": "climbs to the roof",
+      "es": "sube al techo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv50",
+      "en": "building",
+      "es": "edificio",
+      "imageUrl": "https://loremflickr.com/cache/resized/3195_2599093453_f6e8841665_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv51",
+      "en": "streets",
+      "es": "calles",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv52",
+      "en": "to rest",
+      "es": "descansar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv53",
+      "en": "living room / hall",
+      "es": "sala",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv54",
+      "en": "marigold (traditional Day of the Dead flower)",
+      "es": "cempasúchil",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv55",
+      "en": "I hung",
+      "es": "colgué",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv56",
+      "en": "chiseled paper decorations",
+      "es": "papel picado",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv57",
+      "en": "entrance",
+      "es": "entrada",
+      "imageUrl": "https://loremflickr.com/cache/resized/964_42030083631_4e40a52c79_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv58",
+      "en": "candles",
+      "es": "velas",
+      "imageUrl": "https://loremflickr.com/cache/resized/3459_3402331000_af8aa7b360_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv59",
+      "en": "I added",
+      "es": "añadí",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv60",
+      "en": "sugar skulls",
+      "es": "calaveras de azúcar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv61",
+      "en": "memories / keepsakes",
+      "es": "recuerdos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv62",
+      "en": "fresh flowers",
+      "es": "flores frescas",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv63",
+      "en": "graves / tombs",
+      "es": "tumbas",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv64",
+      "en": "tombstones",
+      "es": "lápidas",
+      "imageUrl": "https://loremflickr.com/cache/resized/6195_6049629799_3a4b01453a_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv65",
+      "en": "to tidy up / to fix",
+      "es": "arreglar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv66",
+      "en": "to place / to put",
+      "es": "colocar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv67",
+      "en": "around",
+      "es": "alrededor",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv68",
+      "en": "uncles (or aunts and uncles)",
+      "es": "tíos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv69",
+      "en": "female cousin",
+      "es": "prima",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv70",
+      "en": "so big",
+      "es": "tan grandes",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv71",
+      "en": "smile",
+      "es": "sonrisa",
+      "imageUrl": "https://loremflickr.com/cache/resized/978_41130020535_08f0ee5cc6_z_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv72",
+      "en": "town parade",
+      "es": "desfile del pueblo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv73",
+      "en": "I turned off / I blew out",
+      "es": "apagué",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv74",
+      "en": "I handed out little skulls",
+      "es": "repartí calaveritas",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv75",
+      "en": "colorful outfits",
+      "es": "trajes coloridos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv76",
+      "en": "mariachi musicians",
+      "es": "mariachis",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv77",
+      "en": "I danced",
+      "es": "bailé",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv78",
+      "en": "young people",
+      "es": "jóvenes",
+      "imageUrl": "https://loremflickr.com/cache/resized/2387_1601350583_017e6bb74d_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv79",
+      "en": "stand / stall",
+      "es": "puesto",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv80",
+      "en": "to organize / to order",
+      "es": "ordenar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv81",
+      "en": "to honor",
+      "es": "honrar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv82",
+      "en": "to stay / to remain",
+      "es": "quedarse",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv83",
+      "en": "world",
+      "es": "mundo",
+      "imageUrl": "https://loremflickr.com/cache/resized/5328_8990112830_a96d5281f2_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv84",
+      "en": "Spanish-speaking",
+      "es": "hispanohablante",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv85",
+      "en": "like this / so",
+      "es": "así",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv86",
+      "en": "asks for / orders",
+      "es": "pide",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv87",
+      "en": "they put / they place",
+      "es": "ponen",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv88",
+      "en": "places / puts",
+      "es": "coloca",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv89",
+      "en": "lights",
+      "es": "luces",
+      "imageUrl": "https://loremflickr.com/cache/resized/4016_4385905981_59e6c7853a_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv90",
+      "en": "reindeer",
+      "es": "reno",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv91",
+      "en": "smiles",
+      "es": "sonríe",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv92",
+      "en": "has",
+      "es": "tiene",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv93",
+      "en": "answer / response",
+      "es": "respuesta",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv94",
+      "en": "they think",
+      "es": "piensan",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv95",
+      "en": "others / the rest",
+      "es": "demás",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv96",
+      "en": "hugs",
+      "es": "abraza",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv97",
+      "en": "occasionally / from time to time",
+      "es": "de vez en cuando",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv98",
+      "en": "we greet my father",
+      "es": "saludamos a mi padre",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv99",
+      "en": "also / too",
+      "es": "también",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv100",
+      "en": "the members",
+      "es": "los miembros",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv101",
+      "en": "the city",
+      "es": "la ciudad",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv102",
+      "en": "the nurse",
+      "es": "la enfermera",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv103",
+      "en": "the farmer",
+      "es": "el agricultor",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv104",
+      "en": "the scriptures",
+      "es": "las escrituras",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv105",
+      "en": "to sing",
+      "es": "cantar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv106",
+      "en": "to run",
+      "es": "correr",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv107",
+      "en": "to work",
+      "es": "trabajar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv108",
+      "en": "to need",
+      "es": "necesitar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv109",
+      "en": "to eat",
+      "es": "comer",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv110",
+      "en": "to spend time / to pass",
+      "es": "pasar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv111",
+      "en": "to travel",
+      "es": "viajar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv112",
+      "en": "to admire",
+      "es": "admirar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv113",
+      "en": "to believe",
+      "es": "creer",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv114",
+      "en": "to owe / must",
+      "es": "deber",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv115",
+      "en": "to know / to be familiar with",
+      "es": "conocer",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv116",
+      "en": "flan (caramel custard)",
+      "es": "flan",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv117",
+      "en": "homework / task",
+      "es": "tarea",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv118",
+      "en": "to correct",
+      "es": "corregir",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv119",
+      "en": "to pay",
+      "es": "pagar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv120",
+      "en": "to look for",
+      "es": "buscar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv121",
+      "en": "excited",
+      "es": "emocionados",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv122",
+      "en": "draws",
+      "es": "dibuja",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv123",
+      "en": "flowerpot",
+      "es": "maceta",
+      "imageUrl": "https://loremflickr.com/cache/resized/7300_8722039065_9526bba565_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv124",
+      "en": "letter",
+      "es": "carta",
+      "imageUrl": "https://loremflickr.com/cache/resized/4058_4252505206_e71738bd12_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv125",
+      "en": "both",
+      "es": "ambos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv126",
+      "en": "stars",
+      "es": "estrellas",
+      "imageUrl": "https://loremflickr.com/cache/resized/3212_3130228600_12d6d0305a_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv127",
+      "en": "later / then",
+      "es": "luego",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv128",
+      "en": "they deliver / hand over",
+      "es": "entregan",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv129",
+      "en": "decorations",
+      "es": "adornos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv130",
+      "en": "with care",
+      "es": "con cuidado",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv131",
+      "en": "box",
+      "es": "caja",
+      "imageUrl": "https://loremflickr.com/cache/resized/65535_50876741646_5183c6a033_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv132",
+      "en": "inside there is",
+      "es": "dentro hay",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv133",
+      "en": "explains",
+      "es": "explica",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv134",
+      "en": "to think",
+      "es": "pensar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv135",
+      "en": "agrees",
+      "es": "está de acuerdo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv136",
+      "en": "to share",
+      "es": "compartir",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv137",
+      "en": "Christmas carols",
+      "es": "villancicos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv138",
+      "en": "front / in front of",
+      "es": "frente",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv139",
+      "en": "to find",
+      "es": "encontrar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv140",
+      "en": "to see",
+      "es": "ver",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv141",
+      "en": "I did / I made",
+      "es": "hice",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv142",
+      "en": "they were (Preterite)",
+      "es": "estuvieron",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv143",
+      "en": "they liked it",
+      "es": "A ellos les gustó",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv144",
+      "en": "we decided",
+      "es": "decidimos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv145",
+      "en": "I ordered / I asked for",
+      "es": "pedí",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv146",
+      "en": "I forgot",
+      "es": "olvidé",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv147",
+      "en": "they had to",
+      "es": "tuvieron que",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv148",
+      "en": "I promised",
+      "es": "prometí",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv149",
+      "en": "swans",
+      "es": "cisnes",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv150",
+      "en": "bird",
+      "es": "pájaro",
+      "imageUrl": "https://loremflickr.com/cache/resized/65535_50805010473_61068bc1ac_z_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv151",
+      "en": "seeds",
+      "es": "semillas",
+      "imageUrl": "https://loremflickr.com/cache/resized/7688_17222493786_deb40ba06f_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv152",
+      "en": "to feed",
+      "es": "alimentar",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv153",
+      "en": "bags",
+      "es": "bolsas",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv154",
+      "en": "we said goodbye",
+      "es": "nos despedimos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv155",
+      "en": "I washed",
+      "es": "lavé",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv156",
+      "en": "I brushed",
+      "es": "cepillé",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv157",
+      "en": "I went to bed",
+      "es": "me acosté",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv158",
+      "en": "everything / all",
+      "es": "todo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv159",
+      "en": "we carried / we took",
+      "es": "llevamos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv160",
+      "en": "they jumped",
+      "es": "saltaron",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv161",
+      "en": "between / among",
+      "es": "entre",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv162",
+      "en": "stones / rocks",
+      "es": "piedras",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv163",
+      "en": "they shouted / they yelled",
+      "es": "gritaron",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv164",
+      "en": "it touched",
+      "es": "tocó",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv165",
+      "en": "he/she rested",
+      "es": "descansó",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv166",
+      "en": "he/she took (e.g., photos)",
+      "es": "tomó",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv167",
+      "en": "lunch",
+      "es": "almuerzo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv168",
+      "en": "waterfall",
+      "es": "cascada",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv169",
+      "en": "hidden",
+      "es": "escondida",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv170",
+      "en": "we arrived",
+      "es": "llegamos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv171",
+      "en": "twenty (20)",
+      "es": "veinte",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv172",
+      "en": "to fall",
+      "es": "caer",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv173",
+      "en": "sound",
+      "es": "sonido",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv174",
+      "en": "birds",
+      "es": "aves",
+      "imageUrl": "https://loremflickr.com/cache/resized/7008_6849599843_ab68fed8d5_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv175",
+      "en": "we recorded",
+      "es": "grabamos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv176",
+      "en": "firewood",
+      "es": "leña",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv177",
+      "en": "fire",
+      "es": "fuego",
+      "imageUrl": "https://loremflickr.com/cache/resized/3295_2835278086_22447d06b5_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv178",
+      "en": "we ate dinner",
+      "es": "cenamos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv179",
+      "en": "bonfire / campfire",
+      "es": "fogata",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv180",
+      "en": "walk / trip / outing",
+      "es": "paseo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv181",
+      "en": "he drew",
+      "es": "dibujó",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv182",
+      "en": "notebook",
+      "es": "cuaderno",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv183",
+      "en": "she painted",
+      "es": "pintó",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv184",
+      "en": "tired",
+      "es": "cansados",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv185",
+      "en": "we enjoyed",
+      "es": "disfrutamos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv186",
+      "en": "I was / it was (Imperfect of SER)",
+      "es": "era",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv187",
+      "en": "I used to go / I was going",
+      "es": "iba",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv188",
+      "en": "I wanted",
+      "es": "quería",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv189",
+      "en": "it was cold",
+      "es": "hacía frío",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv190",
+      "en": "I was / it was (Imperfect of ESTAR)",
+      "es": "estaba",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv191",
+      "en": "I had",
+      "es": "tenía",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv192",
+      "en": "I had to (Preterite)",
+      "es": "tuve que",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv193",
+      "en": "I saw",
+      "es": "vi",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv194",
+      "en": "I knew / was familiar with",
+      "es": "conocía",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv195",
+      "en": "it seemed / looked like",
+      "es": "parecía",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv196",
+      "en": "I gave",
+      "es": "di",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv197",
+      "en": "he/she became",
+      "es": "se puso",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv198",
+      "en": "I found out / I knew",
+      "es": "supe",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv199",
+      "en": "he/she said",
+      "es": "dijo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv200",
+      "en": "I thought",
+      "es": "pensé",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv201",
+      "en": "we went / we were",
+      "es": "fuimos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv202",
+      "en": "he/she slept",
+      "es": "durmió",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv203",
+      "en": "I thank",
+      "es": "agradezco",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "rv204",
+      "en": "desire / urge",
+      "es": "ganas",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "srs-seasons-months-numbers-days-en-es",
+  "title": "SRS: Seasons, Months, Days, and Big Numbers (EN to ES)",
+  "type": "srs-flashcards",
+  "data": [
+    {
+      "id": "s1_inv",
+      "es": "Winter",
+      "en": "El invierno",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "s2_inv",
+      "es": "Spring",
+      "en": "La primavera",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "s3_inv",
+      "es": "Summer",
+      "en": "El verano",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "s4_inv",
+      "es": "Autumn, Fall",
+      "en": "El otoño",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m1_inv",
+      "es": "January",
+      "en": "Enero",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m2_inv",
+      "es": "February",
+      "en": "Febrero",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m3_inv",
+      "es": "March",
+      "en": "Marzo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m4_inv",
+      "es": "April",
+      "en": "Abril",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m5_inv",
+      "es": "May",
+      "en": "Mayo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m6_inv",
+      "es": "June",
+      "en": "Junio",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m7_inv",
+      "es": "July",
+      "en": "Julio",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m8_inv",
+      "es": "August",
+      "en": "Agosto",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m9_inv",
+      "es": "September",
+      "en": "Septiembre",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m10_inv",
+      "es": "October",
+      "en": "Octubre",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m11_inv",
+      "es": "November",
+      "en": "Noviembre",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "m12_inv",
+      "es": "December",
+      "en": "Diciembre",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "d1_inv",
+      "es": "Monday",
+      "en": "Lunes",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "d2_inv",
+      "es": "Tuesday",
+      "en": "Martes",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "d3_inv",
+      "es": "Wednesday",
+      "en": "Miércoles",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "d4_inv",
+      "es": "Thursday",
+      "en": "Jueves",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "d5_inv",
+      "es": "Friday",
+      "en": "Viernes",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "d6_inv",
+      "es": "Saturday",
+      "en": "Sábado",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "d7_inv",
+      "es": "Sunday",
+      "en": "Domingo",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n10_inv",
+      "es": "10",
+      "en": "Diez",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n11_inv",
+      "es": "11",
+      "en": "Once",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n12_inv",
+      "es": "12",
+      "en": "Doce",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n13_inv",
+      "es": "13",
+      "en": "Trece",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n14_inv",
+      "es": "14",
+      "en": "Catorce",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n15_inv",
+      "es": "15",
+      "en": "Quince",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n16_inv",
+      "es": "16",
+      "en": "Dieciséis",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n17_inv",
+      "es": "17",
+      "en": "Diecisiete",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n18_inv",
+      "es": "18",
+      "en": "Dieciocho",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n19_inv",
+      "es": "19",
+      "en": "Diecinueve",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n20_inv",
+      "es": "20",
+      "en": "Veinte",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n30_inv",
+      "es": "30",
+      "en": "Treinta",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n40_inv",
+      "es": "40",
+      "en": "Cuarenta",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n50_inv",
+      "es": "50",
+      "en": "Cincuenta",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n60_inv",
+      "es": "60",
+      "en": "Sesenta",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n70_inv",
+      "es": "70",
+      "en": "Setenta",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n80_inv",
+      "es": "80",
+      "en": "Ochenta",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n90_inv",
+      "es": "90",
+      "en": "Noventa",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n100_inv",
+      "es": "100",
+      "en": "Cien",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n200_inv",
+      "es": "200",
+      "en": "Doscientos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n300_inv",
+      "es": "300",
+      "en": "Trescientos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n400_inv",
+      "es": "400",
+      "en": "Cuatrocientos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n500_inv",
+      "es": "500",
+      "en": "Quinientos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n600_inv",
+      "es": "600",
+      "en": "Seiscientos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n700_inv",
+      "es": "700",
+      "en": "Setecientos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n800_inv",
+      "es": "800",
+      "en": "Ochocientos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n900_inv",
+      "es": "900",
+      "en": "Novecientos",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "n1000_inv",
+      "es": "1000",
+      "en": "Mil",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    }
+  ]
+}

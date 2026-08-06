@@ -1,0 +1,379 @@
+{
+  "id": "srs-seasons-months-numbers-days-colors-es-en",
+  "title": "SRS: Seasons, Months, Days, Big Numbers, and Colors (ES to EN)",
+  "type": "flashcards",
+  "data": [
+    {
+      "id": "f1",
+      "es": "El invierno",
+      "en": "Winter",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_invierno.png"
+    },
+    {
+      "id": "f2",
+      "es": "La primavera",
+      "en": "Spring",
+      "imageUrl":  "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_primavera.png"
+    },
+    {
+      "id": "f3",
+      "es": "El verano",
+      "en": "Summer",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_verano.png"
+    },
+    {
+      "id": "f4",
+      "es": "El otoño",
+      "en": "Autumn, Fall",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_otono.png"
+    },
+    {
+      "id": "f5",
+      "es": "Enero",
+      "en": "January",
+      "imageUrl": ""
+    },
+    {
+      "id": "f6",
+      "es": "Febrero",
+      "en": "February",
+      "imageUrl": ""
+    },
+    {
+      "id": "f7",
+      "es": "Marzo",
+      "en": "March",
+      "imageUrl": ""
+    },
+    {
+      "id": "f8",
+      "es": "Abril",
+      "en": "April",
+      "imageUrl": ""
+    },
+    {
+      "id": "f9",
+      "es": "Mayo",
+      "en": "May",
+      "imageUrl": ""
+    },
+    {
+      "id": "f10",
+      "es": "Junio",
+      "en": "June",
+      "imageUrl": ""
+    },
+    {
+      "id": "f11",
+      "es": "Julio",
+      "en": "July",
+      "imageUrl": ""
+    },
+    {
+      "id": "f12",
+      "es": "Agosto",
+      "en": "August",
+      "imageUrl": ""
+    },
+    {
+      "id": "f13",
+      "es": "Septiembre",
+      "en": "September",
+      "imageUrl": ""
+    },
+    {
+      "id": "f14",
+      "es": "Octubre",
+      "en": "October",
+      "imageUrl": ""
+    },
+    {
+      "id": "f15",
+      "es": "Noviembre",
+      "en": "November",
+      "imageUrl": ""
+    },
+    {
+      "id": "f16",
+      "es": "Diciembre",
+      "en": "December",
+      "imageUrl": ""
+    },
+    {
+      "id": "f17",
+      "es": "Lunes",
+      "en": "Monday",
+      "imageUrl": ""
+    },
+    {
+      "id": "f18",
+      "es": "Martes",
+      "en": "Tuesday",
+      "imageUrl": ""
+    },
+    {
+      "id": "f19",
+      "es": "Miércoles",
+      "en": "Wednesday",
+      "imageUrl": ""
+    },
+    {
+      "id": "f20",
+      "es": "Jueves",
+      "en": "Thursday",
+      "imageUrl": ""
+    },
+    {
+      "id": "f21",
+      "es": "Viernes",
+      "en": "Friday",
+      "imageUrl": ""
+    },
+    {
+      "id": "f22",
+      "es": "Sábado",
+      "en": "Saturday",
+      "imageUrl": ""
+    },
+    {
+      "id": "f23",
+      "es": "Domingo",
+      "en": "Sunday",
+      "imageUrl": ""
+    },
+    {
+      "id": "f24",
+      "es": "Diez",
+      "en": "10",
+      "imageUrl": ""
+    },
+    {
+      "id": "f25",
+      "es": "Once",
+      "en": "11",
+      "imageUrl": ""
+    },
+    {
+      "id": "f26",
+      "es": "Doce",
+      "en": "12",
+      "imageUrl": ""
+    },
+    {
+      "id": "f27",
+      "es": "Trece",
+      "en": "13",
+      "imageUrl": ""
+    },
+    {
+      "id": "f28",
+      "es": "Catorce",
+      "en": "14",
+      "imageUrl": ""
+    },
+    {
+      "id": "f29",
+      "es": "Quince",
+      "en": "15",
+      "imageUrl": ""
+    },
+    {
+      "id": "f30",
+      "es": "Dieciséis",
+      "en": "16",
+      "imageUrl": ""
+    },
+    {
+      "id": "f31",
+      "es": "Diecisiete",
+      "en": "17",
+      "imageUrl": ""
+    },
+    {
+      "id": "f32",
+      "es": "Dieciocho",
+      "en": "18",
+      "imageUrl": ""
+    },
+    {
+      "id": "f33",
+      "es": "Diecinueve",
+      "en": "19",
+      "imageUrl": ""
+    },
+    {
+      "id": "f34",
+      "es": "Veinte",
+      "en": "20",
+      "imageUrl": ""
+    },
+    {
+      "id": "f35",
+      "es": "Treinta",
+      "en": "30",
+      "imageUrl": ""
+    },
+    {
+      "id": "f36",
+      "es": "Cuarenta",
+      "en": "40",
+      "imageUrl": ""
+    },
+    {
+      "id": "f37",
+      "es": "Cincuenta",
+      "en": "50",
+      "imageUrl": ""
+    },
+    {
+      "id": "f38",
+      "es": "Sesenta",
+      "en": "60",
+      "imageUrl": ""
+    },
+    {
+      "id": "f39",
+      "es": "Setenta",
+      "en": "70",
+      "imageUrl": ""
+    },
+    {
+      "id": "f40",
+      "es": "Ochenta",
+      "en": "80",
+      "imageUrl": ""
+    },
+    {
+      "id": "f41",
+      "es": "Noventa",
+      "en": "90",
+      "imageUrl": ""
+    },
+    {
+      "id": "f42",
+      "es": "Cien",
+      "en": "100",
+      "imageUrl": ""
+    },
+    {
+      "id": "f43",
+      "es": "Doscientos",
+      "en": "200",
+      "imageUrl": ""
+    },
+    {
+      "id": "f44",
+      "es": "Trescientos",
+      "en": "300",
+      "imageUrl": ""
+    },
+    {
+      "id": "f45",
+      "es": "Cuatrocientos",
+      "en": "400",
+      "imageUrl": ""
+    },
+    {
+      "id": "f46",
+      "es": "Quinientos",
+      "en": "500",
+      "imageUrl": ""
+    },
+    {
+      "id": "f47",
+      "es": "Seiscientos",
+      "en": "600",
+      "imageUrl": ""
+    },
+    {
+      "id": "f48",
+      "es": "Setecientos",
+      "en": "700",
+      "imageUrl": ""
+    },
+    {
+      "id": "f49",
+      "es": "Ochocientos",
+      "en": "800",
+      "imageUrl": ""
+    },
+    {
+      "id": "f50",
+      "es": "Novecientos",
+      "en": "900",
+      "imageUrl": ""
+    },
+    {
+      "id": "f51",
+      "es": "Mil",
+      "en": "1000",
+      "imageUrl": "https://loremflickr.com/cache/resized/7033_6641986555_7d82ce952f_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f52",
+      "es": "Rojo",
+      "en": "Red",
+      "imageUrl": "https://loremflickr.com/cache/resized/65535_50903413653_2fa2546a45_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f53",
+      "es": "Azul",
+      "en": "Blue",
+      "imageUrl": "https://loremflickr.com/cache/resized/3784_9090127853_dd5d260f86_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f54",
+      "es": "Verde",
+      "en": "Green",
+      "imageUrl": "https://loremflickr.com/cache/resized/5501_11205184163_0da1662571_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f55",
+      "es": "Amarillo",
+      "en": "Yellow",
+      "imageUrl": "https://loremflickr.com/cache/resized/7398_8729652866_54d8420ed1_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f56",
+      "es": "Blanco",
+      "en": "White",
+      "imageUrl": "https://loremflickr.com/cache/resized/65535_50904116406_67c73fbc80_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f57",
+      "es": "Negro",
+      "en": "Black",
+      "imageUrl": "https://loremflickr.com/cache/resized/65535_50805876692_9d3c6f6caf_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f58",
+      "es": "Gris",
+      "en": "Grey / Gray",
+      "imageUrl": "https://loremflickr.com/cache/resized/65535_48227530012_6a8de21d68_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f59",
+      "es": "Marrón / Café",
+      "en": "Brown",
+      "imageUrl": "https://loremflickr.com/cache/resized/7249_7599199950_b96237f303_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f60",
+      "es": "Rosa / Rosado",
+      "en": "Pink",
+      "imageUrl": "https://loremflickr.com/cache/resized/65535_50623900001_72a5bd4917_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f61",
+      "es": "Naranja / Anaranjado",
+      "en": "Orange",
+      "imageUrl": "https://loremflickr.com/cache/resized/2883_9063838073_3725c51cbc_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f62",
+      "es": "Morado",
+      "en": "Purple",
+      "imageUrl": "https://loremflickr.com/cache/resized/65535_50623158793_10e1e04019_320_240_nofilter.jpg"
+    }
+  ]
+}

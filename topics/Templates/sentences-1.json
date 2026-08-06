@@ -1,0 +1,28 @@
+{
+  "id": "sentences-1",
+  "title": "Restaurant Phrases",
+  "type": "sentences",
+  "autoHide": true,
+  "data": [
+    {
+      "es": "Una mesa para dos, por favor.",
+      "en": "A table for two, please."
+    },
+    {
+      "es": "La cuenta, por favor.",
+      "en": "The bill, please."
+    },
+    {
+      "es": "¿Tienen menú en inglés?",
+      "en": "Do you have an English menu?"
+    },
+    {
+      "es": "Me gustaría pedir la sopa.",
+      "en": "I would like to order the soup."
+    },
+    {
+      "es": "¿Dónde están los baños?",
+      "en": "Where are the restrooms?"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "beginner-adj",
+  "title": "3 Adjectives",
+  "type": "flashcards",
+  "data": [
+    {
+      "id": "s1",
+      "es": "grande / pequeño",
+      "en": "big / small",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_grande2.png"
+    },
+    {
+      "id": "s2",
+      "es": "feliz /triste",
+      "en": "happy / sad",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_triste.png"
+    },
+    {
+      "id": "s3",
+      "es": "la idea estupenda",
+      "en": "the TERRIFIC idea",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_estupenda.png"
+    },
+    {
+      "id": "s4",
+      "es": "una mariposa hermosa",
+      "en": "a BEAUTIFUL butterfly",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_hermosa.png"
+    },
+    {
+      "id": "m1",
+      "es": "una suricata flaca",
+      "en": "a SKINNY meerkat",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_flaca.png"
+    },
+    {
+      "id": "m2",
+      "es": "un golpe fuerte",
+      "en": "a STRONG punch/hit",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_fuerte.png"
+    },
+    {
+      "id": "m3",
+      "es": "un pato rico",
+      "en": "a RICH duck",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_rico.png"
+    },
+    {
+      "id": "m4",
+      "es": "un doguillo gordo ",
+      "en": "a FAT pug",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_gordo.png"
+    },
+    {
+      "id": "m5",
+      "es": "un muchacho guapo",
+      "en": "a HANDSOME young man",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_guapo.png"
+    },
+    {
+      "id": "m6",
+      "es": "el lugar bueno",
+      "en": "the good place",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_bueno.png"
+    },
+    {
+      "id": "m7",
+      "es": "los tipos malos",
+      "en": "the bad guys",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_malo.png"
+    },
+    {
+      "id": "m8",
+      "es": "viejo / joven",
+      "en": "old / young",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_vviejo3.png"
+    },
+    {
+      "id": "m9",
+      "es": "rápido / lento",
+      "en": "fast / slow",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_lento.png"
+    },
+    {
+      "id": "m10",
+      "es": "amable / cruel",
+      "en": "kind / cruel",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_amable.png"
+    },
+    {
+      "id": "m11",
+      "es": "alto / bajo",
+      "en": "tall, high / short, low",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_bajo.png"
+    },
+    {
+      "id": "m12",
+      "es": "caliente / frío",
+      "en": "hot / cold",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_calient.png"
+    },
+    {
+      "id": "d1",
+      "es": "barato / caro ",
+      "en": "cheap / expensive",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_barato.png"
+    },
+    {
+      "id": "d2",
+      "es": "fuerte / débil",
+      "en": "strong / weak",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_debil.png"
+    },
+    {
+      "id": "d3",
+      "es": "interesante / aburrido",
+      "en": "interesting / boring",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_aburrido.png"
+    },
+    {
+      "id": "d4",
+      "es": "perezoso / trabajador",
+      "en": "lazy / hardworking",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_perezoso.png"
+    },
+    {
+      "id": "d5",
+      "es": "honesto / mentiroso",
+      "en": "honest / liar ",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_honesto.png"
+    },
+    {
+      "id": "d6",
+      "es": "maleducado / educado",
+      "en": "rude / polite",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_rude.png"
+    },
+    {
+      "id": "d7",
+      "es": "contento / descontento",
+      "en": "content / discontent",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_contento.png"
+    },
+    {
+      "id": "n10",
+      "es": "enojado / feliz",
+      "en": "angry / happy",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_enojada.png"
+    },
+    {
+      "id": "n11",
+      "es": "sociable / callado",
+      "en": "outgoing / quiet",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_callado.png"
+    },
+    {
+      "id": "n12",
+      "es": "fácil / difícil",
+      "en": "easy / difficult",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_deficil.png"
+    },
+    {
+      "id": "n13",
+      "es": "bonito / feo",
+      "en": "pretty / ugly",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_bonito.png"
+    },
+    {
+      "id": "n14",
+      "es": "generoso / egoísta",
+      "en": "generous / selfish",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_generoso.png"
+    },
+    {
+      "id": "n15",
+      "es": "desordenado / ordenado",
+      "en": "messy / organized",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_desordenado.png"
+    },
+    {
+      "id": "n16",
+      "es": "responsable / irresponsable",
+      "en": "responsable / irresponsable",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_irresponsable.png"
+    },
+    {
+      "id": "n17",
+      "es": "seguro / inseguro",
+      "en": "confident / insecure",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_seguro.png"
+    },
+    {
+      "id": "n18",
+      "es": "modesto / inmodesto",
+      "en": "modest / immodest",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_modesto.png"
+    },
+    {
+      "id": "n19",
+      "es": "una vecina chismosa",
+      "en": "a gossipy neighbor",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_chismosa.png"
+    },
+    {
+      "id": "n20",
+      "es": "enfermo / saludable",
+      "en": "sick / healthy",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_enfermo.png"
+    },
+    {
+      "id": "n30",
+      "es": "vacío / lleno",
+      "en": "empty / full ",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_vacio.png"
+    },
+    {
+      "id": "n40",
+      "es": "despierto / dormido",
+      "en": "awake / asleep",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_despierto.png"
+    },
+    {
+      "id": "n50",
+      "es": "sucio / limpio",
+      "en": "dirty / clean",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_sucio.png"
+    },
+    {
+      "id": "n60",
+      "es": "dinámico",
+      "en": "energetic / dynamic",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_dynamico.png"
+    },
+    {
+      "id": "n70",
+      "es": "cansado",
+      "en": "tired",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_cansado.png"
+    },
+    {
+      "id": "n80",
+      "es": "comodo / incomodo",
+      "en": "comfortable / uncomfortable",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_comodo.png"
+    },
+    {
+      "id": "n90",
+      "es": "timido",
+      "en": "shy",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_timido.png"
+    },
+    {
+      "id": "n100",
+      "es": "introvertido / extrovertido",
+      "en": "introverted / extroverted",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_extrovertido.png"
+    },
+    {
+      "id": "n200",
+      "es": "Doscientos",
+      "en": "200",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_flaca.png"
+    },
+    {
+      "id": "n300",
+      "es": "Trescientos",
+      "en": "300",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_flaca.png"
+    },
+    {
+      "id": "n400",
+      "es": "Cuatrocientos",
+      "en": "400",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_flaca.png"
+    },
+    {
+      "id": "n500",
+      "es": "Quinientos",
+      "en": "500",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_flaca.png"
+    },
+    {
+      "id": "n600",
+      "es": "Seiscientos",
+      "en": "600",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_flaca.png"
+    },
+    {
+      "id": "n700",
+      "es": "Setecientos",
+      "en": "700",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_flaca.png"
+    },
+    {
+      "id": "n800",
+      "es": "Ochocientos",
+      "en": "800",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_flaca.png"
+    },
+    {
+      "id": "n900",
+      "es": "Novecientos",
+      "en": "900",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_flaca.png"
+    },
+    {
+      "id": "n1000",
+      "es": "Mil",
+      "en": "1000",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_flaca.png"
+    }
+  ]
+}

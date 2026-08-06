@@ -1,0 +1,45 @@
+{
+  "id": "basics-1",
+  "title": "Basic Greetings",
+  "type": "flashcards",
+  "data": [
+    {
+      "id": "f1",
+      "es": "Hola",
+      "en": "Hello",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hello_World_in_several_languages.svg",
+      "hintText": "A friendly wave"
+    },
+    {
+      "id": "f2",
+      "es": "Adiós",
+      "en": "Goodbye",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_Unspoken_Goodbye_%2821Sept09%2C_J132178%2C_copy_A%29.webm"
+    },
+    {
+      "id": "f3",
+      "es": "Por favor",
+      "en": "Please",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Open_Clipart_Library_logo.svg"
+    },
+    {
+      "id": "f4",
+      "es": "Gracias",
+      "en": "Thank you",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/EtzHaimThankYou.png",
+      "hintText": "Expressing gratitude"
+    },
+    {
+      "id": "f5",
+      "es": "¿Cómo estás?",
+      "en": "How are you?",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "f6",
+      "es": "Muy bien",
+      "en": "Very well",
+      "imageUrl": "https://loremflickr.com/cache/resized/defaultImage.small_320_240_nofilter.jpg"
+    }
+  ]
+}

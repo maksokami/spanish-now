@@ -1,0 +1,313 @@
+{
+  "id": "seasons-months-weekdays-numbers",
+  "title": "2 Seasons, Months, Week days, Numbers",
+  "type": "flashcards",
+  "data": [
+    {
+      "id": "s1",
+      "es": "El invierno",
+      "en": "Winter",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_invierno.png"
+    },
+    {
+      "id": "s2",
+      "es": "La primavera",
+      "en": "Spring",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_primavera.png"
+    },
+    {
+      "id": "s3",
+      "es": "El verano",
+      "en": "Summer",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_verano.png"
+    },
+    {
+      "id": "s4",
+      "es": "El otoño",
+      "en": "Autumn, Fall",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_otono.png"
+    },
+    {
+      "id": "m1",
+      "es": "Enero",
+      "en": "January",
+      "imageUrl": ""
+    },
+    {
+      "id": "m2",
+      "es": "Febrero",
+      "en": "February",
+      "imageUrl": ""
+    },
+    {
+      "id": "m3",
+      "es": "Marzo",
+      "en": "March",
+      "imageUrl": ""
+    },
+    {
+      "id": "m4",
+      "es": "Abril",
+      "en": "April",
+      "imageUrl": ""
+    },
+    {
+      "id": "m5",
+      "es": "Mayo",
+      "en": "May",
+      "imageUrl": ""
+    },
+    {
+      "id": "m6",
+      "es": "Junio",
+      "en": "June",
+      "imageUrl": ""
+    },
+    {
+      "id": "m7",
+      "es": "Julio",
+      "en": "July",
+      "imageUrl": ""
+    },
+    {
+      "id": "m8",
+      "es": "Agosto",
+      "en": "August",
+      "imageUrl": ""
+    },
+    {
+      "id": "m9",
+      "es": "Septiembre",
+      "en": "September",
+      "imageUrl": ""
+    },
+    {
+      "id": "m10",
+      "es": "Octubre",
+      "en": "October",
+      "imageUrl": ""
+    },
+    {
+      "id": "m11",
+      "es": "Noviembre",
+      "en": "November",
+      "imageUrl": ""
+    },
+    {
+      "id": "m12",
+      "es": "Diciembre",
+      "en": "December",
+      "imageUrl": ""
+    },
+    {
+      "id": "d1",
+      "es": "Lunes",
+      "en": "Monday",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_lunes.png"
+    },
+    {
+      "id": "d2",
+      "es": "Martes",
+      "en": "Tuesday",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_martes.png"
+    },
+    {
+      "id": "d3",
+      "es": "Miércoles",
+      "en": "Wednesday",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_mercoles.png"
+    },
+    {
+      "id": "d4",
+      "es": "Jueves",
+      "en": "Thursday",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_jueves.png"
+    },
+    {
+      "id": "d5",
+      "es": "Viernes",
+      "en": "Friday",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_viernes.png"
+    },
+    {
+      "id": "d6",
+      "es": "Sábado",
+      "en": "Saturday",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_dabado.png"
+    },
+    {
+      "id": "d7",
+      "es": "Domingo",
+      "en": "Sunday",
+      "imageUrl": ""
+    },
+    {
+      "id": "n10",
+      "es": "Diez",
+      "en": "10",
+      "imageUrl": ""
+    },
+    {
+      "id": "n11",
+      "es": "Once",
+      "en": "11",
+      "imageUrl": ""
+    },
+    {
+      "id": "n12",
+      "es": "Doce",
+      "en": "12",
+      "imageUrl": ""
+    },
+    {
+      "id": "n13",
+      "es": "Trece",
+      "en": "13",
+      "imageUrl": ""
+    },
+    {
+      "id": "n14",
+      "es": "Catorce",
+      "en": "14",
+      "imageUrl": ""
+    },
+    {
+      "id": "n15",
+      "es": "Quince",
+      "en": "15",
+      "imageUrl": ""
+    },
+    {
+      "id": "n16",
+      "es": "Dieciséis",
+      "en": "16",
+      "imageUrl": ""
+    },
+    {
+      "id": "n17",
+      "es": "Diecisiete",
+      "en": "17",
+      "imageUrl": ""
+    },
+    {
+      "id": "n18",
+      "es": "Dieciocho",
+      "en": "18",
+      "imageUrl": ""
+    },
+    {
+      "id": "n19",
+      "es": "Diecinueve",
+      "en": "19",
+      "imageUrl": ""
+    },
+    {
+      "id": "n20",
+      "es": "Veinte",
+      "en": "20",
+      "imageUrl": ""
+    },
+    {
+      "id": "n30",
+      "es": "Treinta",
+      "en": "30",
+      "imageUrl": ""
+    },
+    {
+      "id": "n40",
+      "es": "Cuarenta",
+      "en": "40",
+      "imageUrl": ""
+    },
+    {
+      "id": "n50",
+      "es": "Cincuenta",
+      "en": "50",
+      "imageUrl": ""
+    },
+    {
+      "id": "n60",
+      "es": "Sesenta",
+      "en": "60",
+      "imageUrl": ""
+    },
+    {
+      "id": "n70",
+      "es": "Setenta",
+      "en": "70",
+      "imageUrl": ""
+    },
+    {
+      "id": "n80",
+      "es": "Ochenta",
+      "en": "80",
+      "imageUrl": ""
+    },
+    {
+      "id": "n90",
+      "es": "Noventa",
+      "en": "90",
+      "imageUrl": ""
+    },
+    {
+      "id": "n100",
+      "es": "Cien",
+      "en": "100",
+      "imageUrl": ""
+    },
+    {
+      "id": "n200",
+      "es": "Doscientos",
+      "en": "200",
+      "imageUrl": ""
+    },
+    {
+      "id": "n300",
+      "es": "Trescientos",
+      "en": "300",
+      "imageUrl": ""
+    },
+    {
+      "id": "n400",
+      "es": "Cuatrocientos",
+      "en": "400",
+      "imageUrl": ""
+    },
+    {
+      "id": "n500",
+      "es": "Quinientos",
+      "en": "500",
+      "imageUrl": ""
+    },
+    {
+      "id": "n600",
+      "es": "Seiscientos",
+      "en": "600",
+      "imageUrl": ""
+    },
+    {
+      "id": "n700",
+      "es": "Setecientos",
+      "en": "700",
+      "imageUrl": ""
+    },
+    {
+      "id": "n800",
+      "es": "Ochocientos",
+      "en": "800",
+      "imageUrl": ""
+    },
+    {
+      "id": "n900",
+      "es": "Novecientos",
+      "en": "900",
+      "imageUrl": ""
+    },
+    {
+      "id": "n1000",
+      "es": "Mil",
+      "en": "1000",
+      "imageUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "story-1",
+  "title": "Un Día en Madrid",
+  "type": "story",
+  "text": "Hoy es un día hermoso en Madrid. El sol brilla y la gente camina por la calle mayor. El café huele muy bien por la mañana.",
+  "vocabulary": {
+    "hermoso": "beautiful",
+    "sol": "sun",
+    "brilla": "shines",
+    "calle": "street",
+    "huele": "smells",
+    "mañana": "morning"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "essential-phrases-set",
+  "title": "Daily Expressions & Weather",
+  "type": "sentences",
+  "autoHide": true,
+  "data": [
+    { "es": "A veces", "en": "Sometimes" },
+    { "es": "Pero pienso que", "en": "But I think that" },
+    { "es": "¡Te extrañamos mucho!", "en": "We miss you very much!" },
+    { "es": "Fue divertido.", "en": "It was fun." },
+    { "es": "¡Qué placer hablarte!", "en": "What a pleasure to speak to you!" },
+    { "es": "No puedo imaginar", "en": "I can't imagine" },
+    { "es": "¡Qué bendecido soy!", "en": "How blessed I am!" },
+    { "es": "Por la tarde", "en": "In the afternoon" },
+    { "es": "Coloca adornos con cuidado.", "en": "Place decorations with care." },
+    { "es": "Dentro hay algo.", "en": "Inside there is something." },
+    { "es": "Diego está de acuerdo.", "en": "Diego agrees." },
+    { "es": "Él todavía visita el mismo restaurante.", "en": "He still visits the same restaurant." },
+    { "es": "Tengo calor.", "en": "I am hot. / I feel hot.[cite: 3]" },
+    { "es": "Tengo mucho calor.", "en": "I am very hot.[cite: 3]" },
+    { "es": "Hace calor.", "en": "It is hot (weather).[cite: 3]" },
+    { "es": "Estoy casado.", "en": "I am married." },
+    { "es": "Estoy muerto.", "en": "I'm dead." },
+    { "es": "Estoy vivo.", "en": "I'm alive." }
+  ]
+}

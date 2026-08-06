@@ -1,0 +1,25 @@
+{
+  "id": "story-diario-perfecto",
+  "title": "Querido Diario",
+  "type": "story",
+  "text": "Querido Diario:\nHoy hice muchas cosas. Primero fui al supermercado y compré verduras, pollo y arroz. En el supermercado yo vi a mi amigo Pablo. Hablamos por una hora. Él me contó mucho sobre su vida. Después fui al cine y miré una película con mi esposa. Miramos Top Gun Maverick. Me gustó. Mis padres estuvieron con nosotros. A ellos les gustó la película también. Cuando terminó la película, decidimos ir a un restaurante. Fuimos a un restaurante que se llama Olive Garden. Comimos pasta, pollo y ensalada. Mi esposa bebió una coca-cola pero yo solamente pedí un vaso de agua. Mis padres comieron un pastel de chocolate. Yo olvidé mi billetera así que mis padres tuvieron que pagar por nuestra comida. Les prometí pagar por la próxima cena. Luego, caminamos por el parque y vimos 3 cisnes. Mi mamá me dijo que los cisnes son su pájaro preferido. Vi a un hombre quien nos vendió semillas para alimentar los cisnes. Mi papá compró dos bolsas y mi mamá alimentó los cisnes. Yo no los alimenté porque mi mamá compartió el resto de las semillas con una chica. Mi mamá siempre comparte con otras personas. Para terminar el día, llevé a mis padres a su casa. Nos despedimos y regresé a mi casa. Lavé todos los platos en la cocina. Me duché y me cepillé los dientes y me acosté. ¡Fue un día perfecto!",
+  "vocabulary": {
+    "hice": "I did / I made (Preterite of HACER)",
+    "estuvieron": "they were (Preterite of ESTAR)",
+    "A ellos les gustó": "they liked it (literally: it was pleasing to them)",
+    "decidimos": "we decided (Preterite of DECIDIR)",
+    "pedí": "I ordered / I asked for (Preterite of PEDIR)",
+    "olvidé": "I forgot (Preterite of OLVIDAR)",
+    "tuvieron (que)": "they had (to) (Preterite of TENER)",
+    "prometí": "I promised (Preterite of PROMETER)",
+    "cisnes": "swans",
+    "pájaro": "bird",
+    "semillas": "seeds",
+    "alimentar": "to feed",
+    "bolsas": "bags",
+    "nos despedimos": "we said goodbye (Preterite of DESPEDIRSE)",
+    "lavé": "I washed (Preterite of LAVAR)",
+    "cepillé": "I brushed (Preterite of CEPILLARSE)",
+    "me acosté": "I went to bed (Preterite of ACOSTARSE)"
+  }
+}

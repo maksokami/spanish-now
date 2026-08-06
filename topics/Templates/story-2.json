@@ -1,0 +1,30 @@
+{
+  "id": "unique_id",
+  "title": "PAGE TITLE",
+  "type": "story",
+  "group": "YOUR UI FOLDER/GROUP NAME",
+  "stories": [
+    {
+      "title": "Story1 Title",
+      "text": "Yo estoy de . . . story here",
+      "vocabulary": {
+        "yo": "I",
+        "estoy": "am",
+        "de": "from"
+      },
+      "audioUrl": "https://test.io/test1.mp3",
+      "imageUrl": "https://test.io/test1.png"
+    },
+    {
+      "title": "Story1 Title",
+      "text": "Yo estoy de . . . story here",
+      "vocabulary": {
+        "yo": "I",
+        "estoy": "am",
+        "de": "from"
+      },
+      "audioUrl": "https://test.io/test2.mp3",
+      "imageUrl": "https://test.io/test2.png"
+    }
+  ]
+}

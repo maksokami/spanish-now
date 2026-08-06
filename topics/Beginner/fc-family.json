@@ -1,0 +1,55 @@
+{
+  "id": "family_n_people",
+  "title": "1 Family and people",
+  "type": "flashcards",
+  "data": [
+    {
+      "id": "s1",
+      "es": "la abuela / el abuelo",
+      "en": "grandmother / grandfather",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_abuela.png"
+    },
+    {
+      "id": "s2",
+      "es": "la hermana / el hermano",
+      "en": "sister / brother",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_hermana.png"
+    },
+    {
+      "id": "s3",
+      "es": "la hija / el hijo",
+      "en": "daughter / son",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_hija.png"
+    },
+    {
+      "id": "s4",
+      "es": "el yerno",
+      "en": "son-in-law",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_yerno.png"
+    },
+    {
+      "id": "m1",
+      "es": "la nuera",
+      "en": "daughter-in-law",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_nuera.png"
+    },
+    {
+      "id": "m2",
+      "es": "la sobrina / el sobrino",
+      "en": "the niece / the nephew",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_sobrino.png"
+    },
+    {
+      "id": "m3",
+      "es": "el hombre",
+      "en": "man",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_hombre.png"
+    },
+    {
+      "id": "m4",
+      "es": "la mujer",
+      "en": "woman",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/_mujer.png"
+    }
+  ]
+}

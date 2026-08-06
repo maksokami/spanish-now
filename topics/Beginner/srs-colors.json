@@ -1,0 +1,43 @@
+{
+  "id": "srs-1",
+  "title": "SRS: Vocab - Colors",
+  "type": "srs-flashcards",
+  "data": [
+    {
+      "id": "c1",
+      "es": "Rojo",
+      "en": "Red",
+      "imageUrl": ""
+    },
+    {
+      "id": "c2",
+      "es": "Azul",
+      "en": "Blue",
+      "imageUrl": ""
+    },
+    {
+      "id": "c3",
+      "es": "Verde",
+      "en": "Green",
+      "imageUrl": ""
+    },
+    {
+      "id": "c4",
+      "es": "Amarillo",
+      "en": "Yellow",
+      "imageUrl": ""
+    },
+    {
+      "id": "c5",
+      "es": "Negro",
+      "en": "Black",
+      "imageUrl": ""
+    },
+    {
+      "id": "c6",
+      "es": "Blanco",
+      "en": "White",
+      "imageUrl": ""
+    }
+  ]
+}

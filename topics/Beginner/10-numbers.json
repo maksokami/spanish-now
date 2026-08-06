@@ -1,0 +1,34 @@
+{
+  "id": "numbers_ge_10",
+  "title": "Numbers 10+",
+  "type": "story",
+  "group": "Beginner",
+  "stories": [
+    {
+      "title": "El Mercado 11-19",
+      "text": "Hoy voy al mercado con mi mamá. Primero compramos once manzanas y vemos doce plátanos.\n También hay trece jitomates muy rojos. Mi mamá compra catorce huevos y yo agarro quince naranjas. \nEl vendedor tiene dieciséis mangos y diecisiete limones. Después, compramos dieciocho tortillas. Al final, pagamos diecinueve pesos. ¡Regresamos a casa muy contentos!",
+      "vocabulary": {
+        "once": "11",
+        "doce": "12",
+        "trece": "13",
+        "catorce": "14",
+        "quince": "15",
+        "dieciséis": "16",
+        "diecisiete": "17",
+        "dieciocho": "18",
+        "diecinueve": "19",
+        "manzanas": "apples",
+        "plátanos": "bananas",
+        "huevos": "eggs",
+        "vendedor": "seller",
+        "pagamos": "we pay",
+        "hay": "there are",
+        "agarro": "I grab, pick up",
+        "hoy": "today",
+        "vemos": "we see"
+      },
+      "audioUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/numbers1.mp3",
+      "imageUrl": "https://sp-img-aw46cn0t8c.s3.us-east-1.amazonaws.com/beginner/el_mercado.png"
+    }
+  ]
+}

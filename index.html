@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Español Ya! - Spanish Learning</title>
+    <meta name="description" content="A simple, elegant app to learn Spanish." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <div class="app-container">
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <h1>Español Ya!</h1>
+          <p>Master Spanish intuitively</p>
+          <div class="search-container">
+            <input type="text" id="topic-search" placeholder="Search topics..." />
+            <button id="clear-search" class="clear-search" title="Clear search">×</button>
+          </div>
+        </div>
+        <nav class="sidebar-nav">
+          <ul id="topic-list">
+            <!-- Topics will be dynamically populated here -->
+          </ul>
+        </nav>
+      </aside>
+      <main class="content-area">
+        <div class="top-controls">
+          <button id="image-toggle" class="theme-toggle" title="Toggle Images">🖼️</button>
+          <button id="theme-toggle" class="theme-toggle" title="Toggle Theme">🌓</button>
+        </div>
+        <div id="topic-content" class="topic-content">
+          <div class="welcome-screen">
+            <h2>Welcome to Español Ya!</h2>
+            <p>Select a topic from the sidebar to begin your learning journey.</p>
+          </div>
+        </div>
+      </main>
+    </div>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1231 @@
+{
+  "id": "comprehensive-vocabulary-srs",
+  "title": "Master Vocabulary & Verbs Set",
+  "type": "flashcards",
+  "data": [
+    {
+      "id": "v1",
+      "es": "playa",
+      "en": "beach",
+      "imageUrl": "65535_50904113401_6fc193886c_z_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v2",
+      "es": "nadar en el mar",
+      "en": "to swim in the sea",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v3",
+      "es": "tiburones",
+      "en": "sharks",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v4",
+      "es": "vivir",
+      "en": "to live",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v5",
+      "es": "caminar",
+      "en": "to walk",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v6",
+      "es": "aunque",
+      "en": "although",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v7",
+      "es": "sobre su trabajo",
+      "en": "about his/her job",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v8",
+      "es": "drogas",
+      "en": "drugs",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v9",
+      "es": "farmacia",
+      "en": "pharmacy",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v10",
+      "es": "decir",
+      "en": "to say / to tell",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v11",
+      "es": "todavía",
+      "en": "still / yet",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v12",
+      "es": "mismo",
+      "en": "same",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v13",
+      "es": "salimos",
+      "en": "we leave / we left",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v14",
+      "es": "bendecir",
+      "en": "to bless",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v15",
+      "es": "llevar",
+      "en": "to carry / to take",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v16",
+      "es": "pongo",
+      "en": "I put / I place",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v17",
+      "es": "perder",
+      "en": "to lose",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v18",
+      "es": "agradecer",
+      "en": "to thank / to appreciate",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v19",
+      "es": "hacer preguntas",
+      "en": "to ask questions",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v20",
+      "es": "la razón",
+      "en": "the reason",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v21",
+      "es": "el idioma",
+      "en": "the language",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v22",
+      "es": "el punto de vista",
+      "en": "the point of view",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v23",
+      "es": "el país",
+      "en": "the country",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v24",
+      "es": "enseñar",
+      "en": "to teach",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v25",
+      "es": "por eso",
+      "en": "that's why / for that reason",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v26",
+      "es": "juntos",
+      "en": "together",
+      "imageUrl": "2289_2137737248_e9f3e429d1_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v27",
+      "es": "leer",
+      "en": "to read",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v28",
+      "es": "a veces",
+      "en": "sometimes",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v29",
+      "es": "sin embargo",
+      "en": "however",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v30",
+      "es": "ayudar",
+      "en": "to help",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v31",
+      "es": "escoger",
+      "en": "to choose",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v32",
+      "es": "aprender",
+      "en": "to learn",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v33",
+      "es": "delgado",
+      "en": "slim / thin",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v34",
+      "es": "cabello",
+      "en": "hair",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v35",
+      "es": "usa ropa sencilla",
+      "en": "wears simple clothes",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v36",
+      "es": "ahora",
+      "en": "now",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v37",
+      "es": "comportamiento",
+      "en": "behavior",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v38",
+      "es": "vende",
+      "en": "sells",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v39",
+      "es": "compran del sospechoso",
+      "en": "they buy from the suspect",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v40",
+      "es": "lejos",
+      "en": "far away",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v41",
+      "es": "está más cerca",
+      "en": "is much closer",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v42",
+      "es": "razón desconocida",
+      "en": "unknown reason",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v43",
+      "es": "regresa",
+      "en": "returns",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v44",
+      "es": "después",
+      "en": "after / afterwards",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v45",
+      "es": "salen",
+      "en": "they leave / they go out",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v46",
+      "es": "gimnasio",
+      "en": "gym",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v47",
+      "es": "deportes",
+      "en": "sports",
+      "imageUrl": "2066_2316862090_12ae84cc38_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v48",
+      "es": "cena sencilla",
+      "en": "simple dinner",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v49",
+      "es": "sube al techo",
+      "en": "climbs to the roof",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v50",
+      "es": "edificio",
+      "en": "building",
+      "imageUrl": "3589_3396278575_644b240804_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v51",
+      "es": "calles",
+      "en": "streets",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v52",
+      "es": "descansar",
+      "en": "to rest",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v53",
+      "es": "sala",
+      "en": "living room / hall",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v54",
+      "es": "cempasúchil",
+      "en": "marigold (traditional Day of the Dead flower)",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v55",
+      "es": "colgué",
+      "en": "I hung",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v56",
+      "es": "papel picado",
+      "en": "chiseled paper decorations",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v57",
+      "es": "entrada",
+      "en": "entrance",
+      "imageUrl": "980_40222417640_31446efd0d_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v58",
+      "es": "velas",
+      "en": "candles",
+      "imageUrl": "65535_53367398677_1a3035e9ab_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v59",
+      "es": "añadí",
+      "en": "I added",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v60",
+      "es": "calaveras de azúcar",
+      "en": "sugar skulls",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v61",
+      "es": "recuerdos",
+      "en": "memories / keepsakes",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v62",
+      "es": "flores frescas",
+      "en": "fresh flowers",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v63",
+      "es": "tumbas",
+      "en": "graves / tombs",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v64",
+      "es": "lápidas",
+      "en": "tombstones",
+      "imageUrl": "6195_6049629799_3a4b01453a_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v65",
+      "es": "arreglar",
+      "en": "to tidy up / to fix",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v66",
+      "es": "colocar",
+      "en": "to place / to put",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v67",
+      "es": "alrededor",
+      "en": "around",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v68",
+      "es": "tíos",
+      "en": "uncles (or aunts and uncles)",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v69",
+      "es": "prima",
+      "en": "female cousin",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v70",
+      "es": "tan grandes",
+      "en": "so big",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v71",
+      "es": "sonrisa",
+      "en": "smile",
+      "imageUrl": "949_40222416560_7a2f741198_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v72",
+      "es": "desfile del pueblo",
+      "en": "town parade",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v73",
+      "es": "apagué",
+      "en": "I turned off / I blew out",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v74",
+      "es": "repartí calaveritas",
+      "en": "I handed out little skulls",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v75",
+      "es": "trajes coloridos",
+      "en": "colorful outfits",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v76",
+      "es": "mariachis",
+      "en": "mariachi musicians",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v77",
+      "es": "bailé",
+      "en": "I danced",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v78",
+      "es": "jóvenes",
+      "en": "young people",
+      "imageUrl": "2387_1601350583_017e6bb74d_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v79",
+      "es": "puesto",
+      "en": "stand / stall",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v80",
+      "es": "ordenar",
+      "en": "to organize / to order",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v81",
+      "es": "honrar",
+      "en": "to honor",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v82",
+      "es": "quedarse",
+      "en": "to stay / to remain",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v83",
+      "es": "mundo",
+      "en": "world",
+      "imageUrl": "2182_2137734564_6962dd925c_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v84",
+      "es": "hispanohablante",
+      "en": "Spanish-speaking",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v85",
+      "es": "así",
+      "en": "like this / so",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v86",
+      "es": "pide",
+      "en": "asks for / orders",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v87",
+      "es": "ponen",
+      "en": "they put / they place",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v88",
+      "es": "coloca",
+      "en": "places / puts",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v89",
+      "es": "luces",
+      "en": "lights",
+      "imageUrl": "2719_4309185858_0761208d8a_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v90",
+      "es": "reno",
+      "en": "reindeer",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v91",
+      "es": "sonríe",
+      "en": "smiles",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v92",
+      "es": "tiene",
+      "en": "has",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v93",
+      "es": "respuesta",
+      "en": "answer / response",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v94",
+      "es": "piensan",
+      "en": "they think",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v95",
+      "es": "demás",
+      "en": "others / the rest",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v96",
+      "es": "abraza",
+      "en": "hugs",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v97",
+      "es": "de vez en cuando",
+      "en": "occasionally / from time to time",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v98",
+      "es": "saludamos a mi padre",
+      "en": "we greet my father",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v99",
+      "es": "también",
+      "en": "also / too",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v100",
+      "es": "los miembros",
+      "en": "the members",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v101",
+      "es": "la ciudad",
+      "en": "the city",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v102",
+      "es": "la enfermera",
+      "en": "the nurse",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v103",
+      "es": "el agricultor",
+      "en": "the farmer",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v104",
+      "es": "las escrituras",
+      "en": "the scriptures",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v105",
+      "es": "cantar",
+      "en": "to sing",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v106",
+      "es": "correr",
+      "en": "to run",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v107",
+      "es": "trabajar",
+      "en": "to work",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v108",
+      "es": "necesitar",
+      "en": "to need",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v109",
+      "es": "comer",
+      "en": "to eat",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v110",
+      "es": "pasar",
+      "en": "to spend time / to pass",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v111",
+      "es": "viajar",
+      "en": "to travel",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v112",
+      "es": "admirar",
+      "en": "to admire",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v113",
+      "es": "creer",
+      "en": "to believe",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v114",
+      "es": "deber",
+      "en": "to owe / must",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v115",
+      "es": "conocer",
+      "en": "to know / to be familiar with",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v116",
+      "es": "flan",
+      "en": "flan (caramel custard)",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v117",
+      "es": "tarea",
+      "en": "homework / task",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v118",
+      "es": "corregir",
+      "en": "to correct",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v119",
+      "es": "pagar",
+      "en": "to pay",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v120",
+      "es": "buscar",
+      "en": "to look for",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v121",
+      "es": "emocionados",
+      "en": "excited",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v122",
+      "es": "dibuja",
+      "en": "draws",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v123",
+      "es": "maceta",
+      "en": "flowerpot",
+      "imageUrl": "7300_8722039065_9526bba565_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v124",
+      "es": "carta",
+      "en": "letter",
+      "imageUrl": "4058_4252505206_e71738bd12_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v125",
+      "es": "ambos",
+      "en": "both",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v126",
+      "es": "estrellas",
+      "en": "stars",
+      "imageUrl": "2545_3695999566_f3dfe7d8ab_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v127",
+      "es": "luego",
+      "en": "later / then",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v128",
+      "es": "entregan",
+      "en": "they deliver / hand over",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v129",
+      "es": "adornos",
+      "en": "decorations",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v130",
+      "es": "con cuidado",
+      "en": "with care",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v131",
+      "es": "caja",
+      "en": "box",
+      "imageUrl": "5269_5602891538_b6266419a0_z_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v132",
+      "es": "dentro hay",
+      "en": "inside there is",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v133",
+      "es": "explica",
+      "en": "explains",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v134",
+      "es": "pensar",
+      "en": "to think",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v135",
+      "es": "está de acuerdo",
+      "en": "agrees",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v136",
+      "es": "compartir",
+      "en": "to share",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v137",
+      "es": "villancicos",
+      "en": "Christmas carols",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v138",
+      "es": "frente",
+      "en": "front / in front of",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v139",
+      "es": "encontrar",
+      "en": "to find",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v140",
+      "es": "ver",
+      "en": "to see",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v141",
+      "es": "hice",
+      "en": "I did / I made",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v142",
+      "es": "estuvieron",
+      "en": "they were (Preterite)",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v143",
+      "es": "A ellos les gustó",
+      "en": "they liked it",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v144",
+      "es": "decidimos",
+      "en": "we decided",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v145",
+      "es": "pedí",
+      "en": "I ordered / I asked for",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v146",
+      "es": "olvidé",
+      "en": "I forgot",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v147",
+      "es": "tuvieron que",
+      "en": "they had to",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v148",
+      "es": "prometí",
+      "en": "I promised",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v149",
+      "es": "cisnes",
+      "en": "swans",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v150",
+      "es": "pájaro",
+      "en": "bird",
+      "imageUrl": "65535_50805875887_268339f2c9_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v151",
+      "es": "semillas",
+      "en": "seeds",
+      "imageUrl": "65535_50623159273_b0a00cfe73_n_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v152",
+      "es": "alimentar",
+      "en": "to feed",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v153",
+      "es": "bolsas",
+      "en": "bags",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v154",
+      "es": "nos despedimos",
+      "en": "we said goodbye",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v155",
+      "es": "lavé",
+      "en": "I washed",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v156",
+      "es": "cepillé",
+      "en": "I brushed",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v157",
+      "es": "me acosté",
+      "en": "I went to bed",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v158",
+      "es": "todo",
+      "en": "everything / all",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v159",
+      "es": "llevamos",
+      "en": "we carried / we took",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v160",
+      "es": "saltaron",
+      "en": "they jumped",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v161",
+      "es": "entre",
+      "en": "between / among",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v162",
+      "es": "piedras",
+      "en": "stones / rocks",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v163",
+      "es": "gritaron",
+      "en": "they shouted / they yelled",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v164",
+      "es": "tocó",
+      "en": "it touched",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v165",
+      "es": "descansó",
+      "en": "he/she rested",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v166",
+      "es": "tomó",
+      "en": "he/she took (e.g., photos)",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v167",
+      "es": "almuerzo",
+      "en": "lunch",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v168",
+      "es": "cascada",
+      "en": "waterfall",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v169",
+      "es": "escondida",
+      "en": "hidden",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v170",
+      "es": "llegamos",
+      "en": "we arrived",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v171",
+      "es": "veinte",
+      "en": "twenty (20)",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v172",
+      "es": "caer",
+      "en": "to fall",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v173",
+      "es": "sonido",
+      "en": "sound",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v174",
+      "es": "aves",
+      "en": "birds",
+      "imageUrl": "4021_4541391689_08ef037267_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v175",
+      "es": "grabamos",
+      "en": "we recorded",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v176",
+      "es": "leña",
+      "en": "firewood",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v177",
+      "es": "fuego",
+      "en": "fire",
+      "imageUrl": "3190_2834437893_89eab5596a_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v178",
+      "es": "cenamos",
+      "en": "we ate dinner",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v179",
+      "es": "fogata",
+      "en": "bonfire / campfire",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v180",
+      "es": "paseo",
+      "en": "walk / trip / outing",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v181",
+      "es": "dibujó",
+      "en": "he drew",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v182",
+      "es": "cuaderno",
+      "en": "notebook",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v183",
+      "es": "pintó",
+      "en": "she painted",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v184",
+      "es": "cansados",
+      "en": "tired",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v185",
+      "es": "disfrutamos",
+      "en": "we enjoyed",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v186",
+      "es": "era",
+      "en": "I was / it was (Imperfect of SER)[cite: 4]",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v187",
+      "es": "iba",
+      "en": "I used to go / I was going",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v188",
+      "es": "quería",
+      "en": "I wanted",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v189",
+      "es": "hacía frío",
+      "en": "it was cold",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v190",
+      "es": "estaba",
+      "en": "I was / it was (Imperfect of ESTAR)[cite: 4]",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v191",
+      "es": "tenía",
+      "en": "I had",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v192",
+      "es": "tuve que",
+      "en": "I had to (Preterite)",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v193",
+      "es": "vi",
+      "en": "I saw",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v194",
+      "es": "conocía",
+      "en": "I knew / was familiar with",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v195",
+      "es": "parecía",
+      "en": "it seemed / looked like",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v196",
+      "es": "di",
+      "en": "I gave",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v197",
+      "es": "se puso",
+      "en": "he/she became",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v198",
+      "es": "supe",
+      "en": "I found out / I knew",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v199",
+      "es": "dijo",
+      "en": "he/she said",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v200",
+      "es": "pensé",
+      "en": "I thought",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v201",
+      "es": "fuimos",
+      "en": "we went / we were[cite: 4]",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v202",
+      "es": "durmió",
+      "en": "he/she slept",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v203",
+      "es": "agradezco",
+      "en": "I thank",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    },
+    {
+      "id": "v204",
+      "es": "ganas",
+      "en": "desire / urge",
+      "imageUrl": "defaultImage.small_320_240_nofilter.jpg"
+    }
+  ]
+}

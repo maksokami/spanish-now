@@ -1,0 +1,28 @@
+{
+  "id": "story-pret-imp-irregular-1",
+  "title": "Un sábado especial",
+  "type": "story",
+  "text": "Cuando yo era niño, siempre iba al parque los sábados porque quería jugar. Un día de invierno, hacía mucho frío y yo estaba muy cansado. No tenía muchas ganas de correr, pero tuve que salir de casa.\n\nEn el parque, vi a un grupo de personas alrededor de un perro muy bonito. Yo no conocía al perro, pero parecía muy inteligente. Me acerqué y le di un poco de mi comida. El perro me miró y se puso muy feliz. En ese momento, supe que quería ser su amigo.\n\nLe pedí permiso a mi mamá para llevarlo a casa y ella dijo que sí. Yo pensé: '¡Qué gran día!'. Fuimos a casa juntos y esa noche el perro durmió en mi habitación. Yo le agradezco al destino por ese día tan especial.",
+  "vocabulary": {
+    "era": "I was (SER)",
+    "iba": "I used to go (IR)",
+    "quería": "I wanted (QUERER)",
+    "hacía (frío)": "it was (cold) (HACER)",
+    "estaba": "I was (ESTAR)",
+    "tenía": "I had (TENER)",
+    "tuve (que)": "I had (to) (Pret TENER)",
+    "vi": "I saw (Pret VER)",
+    "conocía": "I knew / was familiar with (CONOCER)",
+    "parecía": "it seemed / looked like (PARECER)",
+    "di": "I gave (Pret DAR)",
+    "se puso": "he became / got (Pret PONERSE)",
+    "supe": "I found out / knew (Pret SABER)",
+    "pedí": "I asked for (Pret PEDIR)",
+    "dijo": "she said (Pret DECIR)",
+    "pensé": "I thought (Pret PENSAR)",
+    "fuimos": "we went (Pret IR)",
+    "durmió": "he slept (Pret DORMIR)",
+    "agradezco": "I thank (Present of AGRADECER - used for the story conclusion)",
+	"ganas": "desire"
+  }
+}
